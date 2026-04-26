@@ -100,4 +100,4 @@ Schools colored red should be the **first priority** for seismic inspections and
 
 ## 📎 Report
 
-See [`docs/Project1_Report.pdf`](docs/Project1_Report.pdf) for the full methodology, maps, and discussion.
+See [`Project1_Report.pdf`](Project1_Report.pdf) for the full methodology, maps, and discussion.
